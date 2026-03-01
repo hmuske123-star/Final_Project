@@ -99,3 +99,41 @@ svg:not(:root) {
     overflow: hidden;
     overflow-clip-margin: content-box;
 }
+
+/* NAV BAR */
+
+/* HEADER */
+
+/* FEATURES */
+
+/* QUALITY WORK */
+
+/* STEPS */
+
+/* VALUES */
+
+/* PRICING */
+
+/* TESTIMONIALS */
+
+/* START / CALL TO ACTION */
+
+/* FOOTER */
+
+
+/* MOBILE RESPONSIVENESS */
+@media (max-width:1280px) {
+
+}
+
+@media (max-width: 1024px) {
+
+}
+
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 480px) {
+
+}
