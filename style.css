@@ -13,6 +13,8 @@ body {
     overflow: hidden;
     min-height: 100vh;
     padding: 2rem;
+    margin: 0;
+    line-height: inherit;
 }
 
 .row {
