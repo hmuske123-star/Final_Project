@@ -10,7 +10,6 @@
 
 body {
     max-width: 100vw;
-    overflow: hidden;
     min-height: 100vh;
     padding: 2rem;
     margin: 0;
@@ -95,7 +94,6 @@ svg:not(:root) {
     overflow: hidden;
     overflow-clip-margin: content-box;
 }
-
 
 /* NAV BAR */
 
@@ -369,7 +367,6 @@ button {
     padding: 0px;
     color: rgb(36, 62, 99);
 }
-
 
 /* HEADER */
 
