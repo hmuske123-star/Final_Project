@@ -775,7 +775,7 @@ img, svg, video, canvas, audio, iframe, embed, object {
     height: auto;
 }
 
-#steps svg {
+.steps__img--wrapper svg {
     opacity: 0.15;
     position: absolute;
     z-index: -10;
