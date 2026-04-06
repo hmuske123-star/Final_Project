@@ -268,18 +268,13 @@ button {
     background: transparent;
     border-style: none;
     transition: 300ms ease;
-
-}
-
-.btn__menu--i {
-    background-color: transparent;
     width: 24;
     height: 24;
     border: none;
     display: none;
 }
 
-.btn__menu--i:hover {
+.btn__menu--hover {
     color: #6415ff;
     transition: all 300ms ease;
 }
@@ -338,14 +333,9 @@ button {
 
 .btn__menu--close {
     position: fixed;
-    display: none;
     top: 24px;
     right: 18px;
     padding: 8px;
-}
-
-.btn__menu--hover {
-    color:#6415ff;
 }
 
 .modal {
